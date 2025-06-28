@@ -18,7 +18,7 @@
 - **运行方式**
   在终端中执行以下命令启动程序：
   ```bash
-  python tmp.py
+  python main.py
   ```
   若出现缺少依赖库的错误，请使用 `pip install` 安装提示的模块。
 
