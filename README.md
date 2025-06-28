@@ -2,7 +2,7 @@
 
 ## 简介
 
-`daily_planner.py` 是一个面向 macOS 用户的简易桌面日程提醒工具，基于 Tkinter 构建图形界面，并通过 `terminal-notifier` 实现系统通知弹窗。
+`main.py` 是一个面向 macOS 用户的简易桌面日程提醒工具，基于 Tkinter 构建图形界面，并通过 `terminal-notifier` 实现系统通知弹窗。
 
 ## 功能特色
 
